@@ -54,3 +54,7 @@ console.log(typeof autos);
 //vacio
 var z = '';
 console.log(z);
+
+let a, b;
+a = 10, b = 20;
+let c = a + b;
