@@ -19,3 +19,12 @@ console.log(z);
 var z = 2 + 4 + nombre;
 console.log(z);
 
+let name = "Sakura";
+console.log(name);
+console.log(typeof name);
+
+let name2;
+
+const lastname = "Nagisa";
+//no se puede cambiar valor de constante
+//lastname = ""; 
