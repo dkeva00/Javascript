@@ -125,6 +125,8 @@ console.log(notANumber);
 
 if( isNaN(notANumber )){
     console.log("No es un numero");
-}else{
+} else {
     console.log("Es numero");
 }
+
+let result = isNaN(notANumber) ? "No es numero" : "Es numero";
